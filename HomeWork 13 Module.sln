@@ -5,6 +5,10 @@ VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork 13 Module", "HomeWork 13 Module\HomeWork 13 Module.csproj", "{7C7EEDD7-A95D-4C1C-82FA-F067AFE66055}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Missoin 2", "Missoin 2", "{19615733-6EF1-454C-9BF2-4A04AF8DBBFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork 13 Module Missoin 2", "HomeWork 13 Module Missoin 2\HomeWork 13 Module Missoin 2.csproj", "{29570488-9260-4F4E-84D5-0ED4C013B2CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +19,16 @@ Global
 		{7C7EEDD7-A95D-4C1C-82FA-F067AFE66055}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C7EEDD7-A95D-4C1C-82FA-F067AFE66055}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C7EEDD7-A95D-4C1C-82FA-F067AFE66055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29570488-9260-4F4E-84D5-0ED4C013B2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29570488-9260-4F4E-84D5-0ED4C013B2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29570488-9260-4F4E-84D5-0ED4C013B2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29570488-9260-4F4E-84D5-0ED4C013B2CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{29570488-9260-4F4E-84D5-0ED4C013B2CF} = {19615733-6EF1-454C-9BF2-4A04AF8DBBFA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {18B38CB8-7878-4D1F-BD99-BABC83D43E36}
